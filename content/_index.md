@@ -12,11 +12,11 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Đào Minh Phương
+&emsp; **Full Name:** Nguyễn Văn Thái Quân
 
-&emsp; **Phone Number:** 0845032258
+&emsp; **Phone Number:** 0819480680
 
-&emsp; **Email:** Phuonghocit@gmail.com
+&emsp; **Email:** thaiquanksna@gmail.com    
 
 &emsp; **University:** Ho Chi Minh City University of Technology 
 

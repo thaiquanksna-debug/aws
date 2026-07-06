@@ -6,11 +6,11 @@ chapter: false
 ---
 
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Nguyễn Văn Thái Quân
 
-&emsp; **Số điện thoại:** 0989888999
+&emsp; **Số điện thoại:** 0819480680
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** thaiquanksna@gmail.com
 
 &emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
 
