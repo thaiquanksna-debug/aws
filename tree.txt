@@ -1,0 +1,1431 @@
+Folder PATH listing for volume ThQuan
+Volume serial number is 000000E6 4222:4E1F
+D:.
+|   .DS_Store
+|   .gitignore
+|   .gitmodules
+|   .hugo_build.lock
+|   config.toml
+|   hugo.exe
+|   tree.txt
+|   
++---.github
+|   \---workflows
+|           hugo.yml
+|           
++---.vscode
+|       settings.json
+|       
++---archetypes
+|       default.md
+|       
++---content
+|   |   _index.md
+|   |   _index.vi.md
+|   |   
+|   +---1-Worklog
+|   |   |   _index.md
+|   |   |   _index.vi.md
+|   |   |   
+|   |   +---1.1-Week1
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.10-Week10
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.11-Week11
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.12-Week12
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.2-Week2
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.3-Week3
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.4-Week4
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.5-Week5
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.6-Week6
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.7-Week7
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---1.8-Week8
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   \---1.9-Week9
+|   |           _index.md
+|   |           _index.vi.md
+|   |           
+|   +---2-Proposal
+|   |       _index.md
+|   |       _index.vi.md
+|   |       
+|   +---3-BlogsPosted
+|   |   |   _index.md
+|   |   |   _index.vi.md
+|   |   |   
+|   |   +---3.1-Blog1
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---3.2-Blog2
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   \---3.3-Blog3
+|   |           _index.md
+|   |           _index.vi.md
+|   |           
+|   +---4-EventParticipated
+|   |   |   _index.md
+|   |   |   _index.vi.md
+|   |   |   
+|   |   +---4.1-Event1
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   \---4.2-Event2
+|   |           _index.md
+|   |           _index.vi.md
+|   |           
+|   +---5-Workshop
+|   |   |   _index.md
+|   |   |   _index.vi.md
+|   |   |   
+|   |   +---5.1-Workshop-overview
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---5.2-Local-setup-and-IAM
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---5.3-Create-full-source-code
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---5.4-Deploy-with-Terraform-OPA
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---5.5-Validate-business-flow
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   +---5.6-Mandatory-evidence
+|   |   |       _index.md
+|   |   |       _index.vi.md
+|   |   |       
+|   |   \---5.7-Security-cost-cleanup
+|   |           _index.md
+|   |           _index.vi.md
+|   |           
+|   +---6-Self-Assessment
+|   |       _index.md
+|   |       _index.vi.md
+|   |       
+|   \---7-Sharing-and-Feedback
+|           _index.md
+|           _index.vi.md
+|           
++---layouts
+|   +---partials
+|   |       custom-footer.html
+|   |       logo.html
+|   |       menu-footer.html
+|   |       
+|   \---shortcodes
+|           ghcontributors.html
+|           tab.html
+|           tabs.html
+|           
++---public
+|   |   404.html
+|   |   AWS_Logo.svg
+|   |   index.html
+|   |   index.json
+|   |   index.xml
+|   |   sitemap.xml
+|   |   
+|   +---1-worklog
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---1.1-week1
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.10-week10
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.11-week11
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.12-week12
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.2-week2
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.3-week3
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.4-week4
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.5-week5
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.6-week6
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.7-week7
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---1.8-week8
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   \---1.9-week9
+|   |           index.html
+|   |           index.xml
+|   |           
+|   +---2-proposal
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---3-blogsposted
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---3.1-blog1
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---3.2-blog2
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   \---3.3-blog3
+|   |           index.html
+|   |           index.xml
+|   |           
+|   +---4-eventparticipated
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---4.1-event1
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   \---4.2-event2
+|   |           index.html
+|   |           index.xml
+|   |           
+|   +---5-workshop
+|   |   |   index.html
+|   |   |   index.xml
+|   |   |   
+|   |   +---5.1-local-setup-and-iam
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.1-local-tools
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.1-project-overview
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.1-workshop-overview
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.2-create-full-source-code
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.2-create-source-code
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.2-iam-sso
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.2-local-setup-and-iam
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.2-prerequisites
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.2-prerequiste
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.3-core-runtime-deployment
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.3-create-full-source-code
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.3-deploy-with-terraform-and-opa
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.3-deploy-with-terraform-opa
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.3-s3-vpc
+|   |   |   |   index.html
+|   |   |   |   index.xml
+|   |   |   |   
+|   |   |   +---5.3.1-create-gwe
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   \---5.3.2-test-gwe
+|   |   |           index.html
+|   |   |           index.xml
+|   |   |           
+|   |   +---5.3-source-vscode
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.4-business-flow-deployment
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.4-deploy-with-terraform-opa
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.4-s3-onprem
+|   |   |   |   index.html
+|   |   |   |   index.xml
+|   |   |   |   
+|   |   |   +---5.4.1-prepare
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.4.2-create-interface-enpoint
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.4.3-test-endpoint
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   \---5.4.4-dns-simulation
+|   |   |           index.html
+|   |   |           index.xml
+|   |   |           
+|   |   +---5.4-terraform-apply
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.4-validate-business-flow
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.5-business-flow
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.5-business-flow-validation
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.5-mandatory-evidence
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.5-policy
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.5-validate-business-flow
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.6-alert-evidence
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.6-cleanup
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.6-mandatory-evidence
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.6-security-cost-cleanup
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.6-security-cost-operations
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.7-cleanup
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.7-cost-security
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.7-security-cost-cleanup
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---5.8-cleanup
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---attachments
+|   |   |   \---5-Workshop
+|   |   |       \---private-by-default
+|   |   |               business-flow-test.ps1
+|   |   |               cleanup.ps1
+|   |   |               MVPTerraformOperator-inline-policy.json
+|   |   |               quick-commands.ps1
+|   |   |               
+|   |   +---images
+|   |   |   \---5-Workshop
+|   |   |       \---private-by-default
+|   |   |               00-final-architecture-diagram.png
+|   |   |               01-sqs-poll-for-messages.png
+|   |   |               02-sqs-dlq-enabled.png
+|   |   |               03-session-manager-receive-message.png
+|   |   |               04-private-worker-business-flow-evidence.png
+|   |   |               05-worker-process-log.png
+|   |   |               06-cloudwatch-alarm-sns-email.png
+|   |   |               
+|   |   \---readme
+|   |           index.html
+|   |           
+|   +---6-self-assessment
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---6-self-evaluation
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---7-feedback
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---7-sharing-and-feedback
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---attachments
+|   |   \---5-Workshop
+|   |       \---private-by-default
+|   |               bootstrap-source.ps1
+|   |               business-flow-test.ps1
+|   |               cleanup.ps1
+|   |               MVPTerraformOperator-inline-policy.json
+|   |               PrivateWorkloadTerraformOperator-inline-policy.json
+|   |               quick-commands.ps1
+|   |               
+|   +---categories
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---css
+|   |       atom-one-dark-reasonable.css
+|   |       auto-complete.css
+|   |       featherlight.min.css
+|   |       fontawesome-all.min.css
+|   |       hugo-theme.css
+|   |       hybrid.css
+|   |       nucleus.css
+|   |       perfect-scrollbar.min.css
+|   |       tags.css
+|   |       theme-blue.css
+|   |       theme-green.css
+|   |       theme-mine.css
+|   |       theme-red.css
+|   |       theme-workshop.css
+|   |       theme.css
+|   |       
+|   +---en
+|   |       index.html
+|   |       sitemap.xml
+|   |       
+|   +---fonts
+|   |       AmazonEmber_Rg.ttf
+|   |       AmazonEmber_RgIt.ttf
+|   |       AmazonEmber_W_Rg.eot
+|   |       AmazonEmber_W_Rg.woff
+|   |       AmazonEmber_W_Rg.woff2
+|   |       AmazonEmber_W_RgIt.eot
+|   |       AmazonEmber_W_RgIt.woff
+|   |       AmazonEmber_W_RgIt.woff2
+|   |       Inconsolata.eot
+|   |       Inconsolata.svg
+|   |       Inconsolata.ttf
+|   |       Inconsolata.woff
+|   |       monogramos-webfont.eot
+|   |       monogramos-webfont.svg
+|   |       monogramos-webfont.ttf
+|   |       monogramos-webfont.woff
+|   |       monogramos-webfont.woff2
+|   |       Novecentosanswide-Normal-webfont.eot
+|   |       Novecentosanswide-Normal-webfont.svg
+|   |       Novecentosanswide-Normal-webfont.ttf
+|   |       Novecentosanswide-Normal-webfont.woff
+|   |       Novecentosanswide-Normal-webfont.woff2
+|   |       Novecentosanswide-UltraLight-webfont.eot
+|   |       Novecentosanswide-UltraLight-webfont.svg
+|   |       Novecentosanswide-UltraLight-webfont.ttf
+|   |       Novecentosanswide-UltraLight-webfont.woff
+|   |       Novecentosanswide-UltraLight-webfont.woff2
+|   |       Work_Sans_200.eot
+|   |       Work_Sans_200.svg
+|   |       Work_Sans_200.ttf
+|   |       Work_Sans_200.woff
+|   |       Work_Sans_200.woff2
+|   |       Work_Sans_300.eot
+|   |       Work_Sans_300.svg
+|   |       Work_Sans_300.ttf
+|   |       Work_Sans_300.woff
+|   |       Work_Sans_300.woff2
+|   |       Work_Sans_500.eot
+|   |       Work_Sans_500.svg
+|   |       Work_Sans_500.ttf
+|   |       Work_Sans_500.woff
+|   |       Work_Sans_500.woff2
+|   |       
+|   +---images
+|   |   |   avatar.png
+|   |   |   clippy.svg
+|   |   |   favicon-16x16.png
+|   |   |   favicon.png
+|   |   |   gopher-404.jpg
+|   |   |   
+|   |   +---2-Proposal
+|   |   |   |   edge_architecture.jpeg
+|   |   |   |   platform_architecture.jpeg
+|   |   |   |   
+|   |   |   \---private-by-default
+|   |   |           architecture.png
+|   |   |           
+|   |   \---5-Workshop
+|   |       +---5.1-Workshop-overview
+|   |       |       diagram1.png
+|   |       |       
+|   |       +---5.2-Prerequisite
+|   |       |       complete.png
+|   |       |       create-stack1.png
+|   |       |       create-stack2.png
+|   |       |       ec2.png
+|   |       |       region.png
+|   |       |       vpcs.png
+|   |       |       
+|   |       +---5.3-S3-vpc
+|   |       |       bucket-name.png
+|   |       |       bucket-success.png
+|   |       |       check-s3-bucket.png
+|   |       |       cli-file.png
+|   |       |       cli1.png
+|   |       |       complete.png
+|   |       |       create-bucket.png
+|   |       |       create-button.png
+|   |       |       create-s3-gwe1.png
+|   |       |       diagram2.png
+|   |       |       endpoints.png
+|   |       |       overview.png
+|   |       |       policy.png
+|   |       |       services.png
+|   |       |       sm.png
+|   |       |       sm1.png
+|   |       |       start-session-success.png
+|   |       |       start-session.png
+|   |       |       uploaded.png
+|   |       |       vpc.png
+|   |       |       
+|   |       +---5.4-S3-onprem
+|   |       |       add-route.png
+|   |       |       check-bucket.png
+|   |       |       cli1.png
+|   |       |       cli2.png
+|   |       |       create-record1.png
+|   |       |       create-stack-button.png
+|   |       |       create-stack-complete.png
+|   |       |       create-stack.png
+|   |       |       diagram3.png
+|   |       |       dig.png
+|   |       |       dns.png
+|   |       |       ec2-onprem-id.png
+|   |       |       endpoint.png
+|   |       |       hosted-zone.png
+|   |       |       InterfaceEndpointArchitecture.png
+|   |       |       record1.png
+|   |       |       record2.png
+|   |       |       result.png
+|   |       |       route53-1.png
+|   |       |       route53-2.png
+|   |       |       route53-3.png
+|   |       |       route53-4.png
+|   |       |       route53-5.png
+|   |       |       route53-6.png
+|   |       |       route53-7.png
+|   |       |       route53.png
+|   |       |       rt.png
+|   |       |       s3-interface-endpoint-success.png
+|   |       |       s3-interface-endpoint1.png
+|   |       |       s3-interface-endpoint2.png
+|   |       |       s3-interface-endpoint3.png
+|   |       |       s3-interface-endpoint4.png
+|   |       |       s3-interface-endpoint5.png
+|   |       |       start-session.png
+|   |       |       subnet.png
+|   |       |       terminal.png
+|   |       |       test1.png
+|   |       |       
+|   |       +---5.5-Policy
+|   |       |       create-bucket-success.png
+|   |       |       create-bucket.png
+|   |       |       error.png
+|   |       |       policy1.png
+|   |       |       policy2.png
+|   |       |       s3-bucket-policy.png
+|   |       |       success.png
+|   |       |       test1.png
+|   |       |       test2-fail.png
+|   |       |       test2-success.png
+|   |       |       test2.png
+|   |       |       VPCEndpointPolicyDiagram.png
+|   |       |       
+|   |       +---5.6-Cleanup
+|   |       |       delete-s3.png
+|   |       |       delete-stack.png
+|   |       |       delete-zone.png
+|   |       |       vpc.png
+|   |       |       
+|   |       \---private-by-default
+|   |               00-final-architecture-diagram.png
+|   |               01-sqs-poll-for-messages.png
+|   |               02-sqs-dlq-enabled.png
+|   |               03-session-manager-receive-message.png
+|   |               04-private-worker-business-flow-evidence.png
+|   |               05-worker-process-log.png
+|   |               06-cloudwatch-alarm-sns-email.png
+|   |               07-billing-forecast-demo-cost.png
+|   |               08-eventbridge-scheduler-enabled.png
+|   |               09-ec2-worker-no-public-ip.png
+|   |               10-rds-internet-access-disabled.png
+|   |               11-rds-security-group-private-access.png
+|   |               12-rds-encryption-enabled.png
+|   |               
+|   +---js
+|   |       auto-complete.js
+|   |       clipboard.min.js
+|   |       featherlight.min.js
+|   |       highlight.pack.js
+|   |       hugo-learn.js
+|   |       jquery-3.3.1.min.js
+|   |       jquery.sticky.js
+|   |       learn.js
+|   |       lunr.min.js
+|   |       modernizr.custom-3.6.0.js
+|   |       perfect-scrollbar.jquery.min.js
+|   |       perfect-scrollbar.min.js
+|   |       search.js
+|   |       
+|   +---mermaid
+|   |       mermaid.css
+|   |       mermaid.dark.css
+|   |       mermaid.forest.css
+|   |       mermaid.js
+|   |       
+|   +---tags
+|   |       index.html
+|   |       index.xml
+|   |       
+|   +---vi
+|   |   |   404.html
+|   |   |   index.html
+|   |   |   index.json
+|   |   |   index.xml
+|   |   |   sitemap.xml
+|   |   |   
+|   |   +---1-worklog
+|   |   |   |   index.html
+|   |   |   |   index.xml
+|   |   |   |   
+|   |   |   +---1.1-week1
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.10-week10
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.11-week11
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.12-week12
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.2-week2
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.3-week3
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.4-week4
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.5-week5
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.6-week6
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.7-week7
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---1.8-week8
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   \---1.9-week9
+|   |   |           index.html
+|   |   |           index.xml
+|   |   |           
+|   |   +---2-proposal
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---3-blogsposted
+|   |   |   |   index.html
+|   |   |   |   index.xml
+|   |   |   |   
+|   |   |   +---3.1-blog1
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---3.2-blog2
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   \---3.3-blog3
+|   |   |           index.html
+|   |   |           index.xml
+|   |   |           
+|   |   +---4-eventparticipated
+|   |   |   |   index.html
+|   |   |   |   index.xml
+|   |   |   |   
+|   |   |   +---4.1-event1
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   \---4.2-event2
+|   |   |           index.html
+|   |   |           index.xml
+|   |   |           
+|   |   +---5-workshop
+|   |   |   |   index.html
+|   |   |   |   index.xml
+|   |   |   |   
+|   |   |   +---5.1-local-setup-and-iam
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.1-local-tools
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.1-project-overview
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.1-workshop-overview
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.2-create-full-source-code
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.2-create-source-code
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.2-iam-sso
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.2-local-setup-and-iam
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.2-prerequisites
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.2-prerequiste
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.3-core-runtime-deployment
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.3-create-full-source-code
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.3-deploy-with-terraform-and-opa
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.3-deploy-with-terraform-opa
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.3-s3-vpc
+|   |   |   |   |   index.html
+|   |   |   |   |   index.xml
+|   |   |   |   |   
+|   |   |   |   +---5.3.1-create-gwe
+|   |   |   |   |       index.html
+|   |   |   |   |       index.xml
+|   |   |   |   |       
+|   |   |   |   \---5.3.2-test-gwe
+|   |   |   |           index.html
+|   |   |   |           index.xml
+|   |   |   |           
+|   |   |   +---5.3-source-vscode
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.4-business-flow-deployment
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.4-deploy-with-terraform-opa
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.4-s3-onprem
+|   |   |   |   |   index.html
+|   |   |   |   |   index.xml
+|   |   |   |   |   
+|   |   |   |   +---5.4.1-prepare
+|   |   |   |   |       index.html
+|   |   |   |   |       index.xml
+|   |   |   |   |       
+|   |   |   |   +---5.4.2-create-interface-enpoint
+|   |   |   |   |       index.html
+|   |   |   |   |       index.xml
+|   |   |   |   |       
+|   |   |   |   +---5.4.3-test-endpoint
+|   |   |   |   |       index.html
+|   |   |   |   |       index.xml
+|   |   |   |   |       
+|   |   |   |   \---5.4.4-dns-simulation
+|   |   |   |           index.html
+|   |   |   |           index.xml
+|   |   |   |           
+|   |   |   +---5.4-terraform-apply
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.4-validate-business-flow
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.5-business-flow
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.5-business-flow-validation
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.5-mandatory-evidence
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.5-policy
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.5-validate-business-flow
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.6-alert-evidence
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.6-cleanup
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.6-mandatory-evidence
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.6-security-cost-cleanup
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.6-security-cost-operations
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.7-cleanup
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.7-cost-security
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   +---5.7-security-cost-cleanup
+|   |   |   |       index.html
+|   |   |   |       index.xml
+|   |   |   |       
+|   |   |   \---5.8-cleanup
+|   |   |           index.html
+|   |   |           index.xml
+|   |   |           
+|   |   +---6-self-assessment
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---6-self-evaluation
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---7-feedback
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---7-sharing-and-feedback
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---categories
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   +---tags
+|   |   |       index.html
+|   |   |       index.xml
+|   |   |       
+|   |   \---workshop
+|   |       |   index.html
+|   |       |   index.xml
+|   |       |   
+|   |       +---5.1-project-overview
+|   |       |       index.html
+|   |       |       index.xml
+|   |       |       
+|   |       +---5.2-prerequisites
+|   |       |       index.html
+|   |       |       index.xml
+|   |       |       
+|   |       +---5.3-core-runtime-deployment
+|   |       |       index.html
+|   |       |       index.xml
+|   |       |       
+|   |       +---5.4-business-flow-deployment
+|   |       |       index.html
+|   |       |       index.xml
+|   |       |       
+|   |       +---5.5-business-flow-validation
+|   |       |       index.html
+|   |       |       index.xml
+|   |       |       
+|   |       +---5.6-security-cost-operations
+|   |       |       index.html
+|   |       |       index.xml
+|   |       |       
+|   |       \---5.7-cleanup
+|   |               index.html
+|   |               index.xml
+|   |               
+|   +---webfonts
+|   |       fa-brands-400.eot
+|   |       fa-brands-400.svg
+|   |       fa-brands-400.ttf
+|   |       fa-brands-400.woff
+|   |       fa-brands-400.woff2
+|   |       fa-regular-400.eot
+|   |       fa-regular-400.svg
+|   |       fa-regular-400.ttf
+|   |       fa-regular-400.woff
+|   |       fa-regular-400.woff2
+|   |       fa-solid-900.eot
+|   |       fa-solid-900.svg
+|   |       fa-solid-900.ttf
+|   |       fa-solid-900.woff
+|   |       fa-solid-900.woff2
+|   |       
+|   \---workshop
+|       |   index.html
+|       |   index.xml
+|       |   
+|       +---5.1-project-overview
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---5.2-prerequisites
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---5.3-core-runtime-deployment
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---5.4-business-flow-deployment
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---5.5-business-flow-validation
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---5.6-security-cost-operations
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---5.7-cleanup
+|       |       index.html
+|       |       index.xml
+|       |       
+|       +---attachments
+|       |   \---5-Workshop
+|       |       \---private-by-default
+|       |               business-flow-test.ps1
+|       |               cleanup.ps1
+|       |               MVPTerraformOperator-inline-policy.json
+|       |               quick-commands.ps1
+|       |               
+|       +---images
+|       |   \---5-Workshop
+|       |       \---private-by-default
+|       |               00-final-architecture-diagram.png
+|       |               01-sqs-poll-for-messages.png
+|       |               02-sqs-dlq-enabled.png
+|       |               03-session-manager-receive-message.png
+|       |               04-private-worker-business-flow-evidence.png
+|       |               05-worker-process-log.png
+|       |               06-cloudwatch-alarm-sns-email.png
+|       |               
+|       \---readme
+|               index.html
+|               
++---static
+|   +---attachments
+|   |   \---5-Workshop
+|   |       \---private-by-default
+|   |               bootstrap-source.ps1
+|   |               business-flow-test.ps1
+|   |               cleanup.ps1
+|   |               MVPTerraformOperator-inline-policy.json
+|   |               PrivateWorkloadTerraformOperator-inline-policy.json
+|   |               quick-commands.ps1
+|   |               
+|   \---images
+|       +---2-Proposal
+|       |   \---private-by-default
+|       |           architecture.png
+|       |           
+|       \---5-Workshop
+|           \---private-by-default
+|                   00-final-architecture-diagram.png
+|                   01-sqs-poll-for-messages.png
+|                   02-sqs-dlq-enabled.png
+|                   03-session-manager-receive-message.png
+|                   04-private-worker-business-flow-evidence.png
+|                   05-worker-process-log.png
+|                   06-cloudwatch-alarm-sns-email.png
+|                   07-billing-forecast-demo-cost.png
+|                   08-eventbridge-scheduler-enabled.png
+|                   09-ec2-worker-no-public-ip.png
+|                   10-rds-internet-access-disabled.png
+|                   11-rds-security-group-private-access.png
+|                   12-rds-encryption-enabled.png
+|                   
+\---themes
+    \---hugo-theme-learn
+        |   .editorconfig
+        |   .gitignore
+        |   .grenrc.yml
+        |   CHANGELOG.md
+        |   LICENSE.md
+        |   netlify.toml
+        |   README.md
+        |   theme.toml
+        |   wercker.yml
+        |   
+        +---archetypes
+        |       chapter.md
+        |       default.md
+        |       
+        +---exampleSite
+        |   |   config.toml
+        |   |   LICENSE.md
+        |   |   
+        |   +---content
+        |   |   |   credits.en.md
+        |   |   |   credits.fr.md
+        |   |   |   showcase.en.md
+        |   |   |   showcase.fr.md
+        |   |   |   _index.en.md
+        |   |   |   _index.fr.md
+        |   |   |   
+        |   |   +---basics
+        |   |   |   |   _index.en.md
+        |   |   |   |   _index.fr.md
+        |   |   |   |   _index.zh.md
+        |   |   |   |   
+        |   |   |   +---configuration
+        |   |   |   |       _index.en.md
+        |   |   |   |       _index.fr.md
+        |   |   |   |       
+        |   |   |   +---installation
+        |   |   |   |   |   _index.en.md
+        |   |   |   |   |   _index.fr.md
+        |   |   |   |   |   
+        |   |   |   |   \---images
+        |   |   |   |           chapter.png
+        |   |   |   |           
+        |   |   |   +---requirements
+        |   |   |   |   |   _index.en.md
+        |   |   |   |   |   _index.fr.md
+        |   |   |   |   |   
+        |   |   |   |   \---images
+        |   |   |   |           magic.gif
+        |   |   |   |           
+        |   |   |   \---style-customization
+        |   |   |       |   _index.en.md
+        |   |   |       |   _index.fr.md
+        |   |   |       |   
+        |   |   |       \---images
+        |   |   |               blue-variant.png
+        |   |   |               green-variant.png
+        |   |   |               red-variant.png
+        |   |   |               
+        |   |   +---cont
+        |   |   |   |   archetypes.en.md
+        |   |   |   |   archetypes.fr.md
+        |   |   |   |   icons.en.md
+        |   |   |   |   markdown.en.md
+        |   |   |   |   markdown.fr.md
+        |   |   |   |   menushortcuts.en.md
+        |   |   |   |   menushortcuts.fr.md
+        |   |   |   |   tags.en.md
+        |   |   |   |   tags.fr.md
+        |   |   |   |   _index.en.md
+        |   |   |   |   _index.fr.md
+        |   |   |   |   
+        |   |   |   +---i18n
+        |   |   |   |   |   _index.en.md
+        |   |   |   |   |   _index.fr.md
+        |   |   |   |   |   
+        |   |   |   |   \---images
+        |   |   |   |           i18n-menu.gif
+        |   |   |   |           
+        |   |   |   \---pages
+        |   |   |       |   _index.en.md
+        |   |   |       |   _index.fr.md
+        |   |   |       |   
+        |   |   |       \---images
+        |   |   |               frontmatter-icon.png
+        |   |   |               pages-chapter.png
+        |   |   |               pages-default.png
+        |   |   |               
+        |   |   \---shortcodes
+        |   |       |   attachments.en.md
+        |   |       |   attachments.fr.md
+        |   |       |   button.en.md
+        |   |       |   button.fr.md
+        |   |       |   expand.en.md
+        |   |       |   expand.fr.md
+        |   |       |   mermaid.en.md
+        |   |       |   mermaid.fr.md
+        |   |       |   notice.en.md
+        |   |       |   notice.fr.md
+        |   |       |   siteparam.en.md
+        |   |       |   siteparam.fr.md
+        |   |       |   _index.en.md
+        |   |       |   _index.fr.md
+        |   |       |   
+        |   |       +---attachments.en.files
+        |   |       |       adivorciarsetoca00cape.pdf
+        |   |       |       BachGavotteShort.mp3
+        |   |       |       Carroll_AliceAuPaysDesMerveilles.pdf
+        |   |       |       hugo.png
+        |   |       |       movieselectricsheep-flock-244-32500-2.mp4
+        |   |       |       
+        |   |       +---attachments.fr.files
+        |   |       |       adivorciarsetoca00cape.pdf
+        |   |       |       BachGavotteShort.mp3
+        |   |       |       Carroll_AliceAuPaysDesMerveilles.pdf
+        |   |       |       hugo.png
+        |   |       |       movieselectricsheep-flock-244-32500-2.mp4
+        |   |       |       
+        |   |       \---children
+        |   |           |   test.en.md
+        |   |           |   test.fr.md
+        |   |           |   _index.en.md
+        |   |           |   _index.fr.md
+        |   |           |   
+        |   |           +---children-1
+        |   |           |   |   _index.en.md
+        |   |           |   |   _index.fr.md
+        |   |           |   |   
+        |   |           |   \---children-1-1
+        |   |           |       |   _index.en.md
+        |   |           |       |   _index.fr.md
+        |   |           |       |   
+        |   |           |       \---children-1-1-1
+        |   |           |               _index.en.md
+        |   |           |               _index.fr.md
+        |   |           |               
+        |   |           +---children-2
+        |   |           |       test3.en.md
+        |   |           |       test3.fr.md
+        |   |           |       _index.en.md
+        |   |           |       _index.fr.md
+        |   |           |       
+        |   |           +---children-3
+        |   |           |       _index.en.md
+        |   |           |       _index.fr.md
+        |   |           |       
+        |   |           \---children-4
+        |   |                   _index.en.md
+        |   |                   _index.fr.md
+        |   |                   
+        |   +---layouts
+        |   |   +---partials
+        |   |   |       custom-footer.html
+        |   |   |       logo.html
+        |   |   |       menu-footer.html
+        |   |   |       
+        |   |   \---shortcodes
+        |   |           ghcontributors.html
+        |   |           
+        |   \---static
+        |       +---css
+        |       |       theme-mine.css
+        |       |       
+        |       +---fonts
+        |       |       monogramos-webfont.eot
+        |       |       monogramos-webfont.svg
+        |       |       monogramos-webfont.ttf
+        |       |       monogramos-webfont.woff
+        |       |       monogramos-webfont.woff2
+        |       |       
+        |       \---images
+        |           \---showcase
+        |                   inteliver_docs.png
+        |                   tat.png
+        |                   tshark_dev.png
+        |                   
+        +---i18n
+        |       ar.toml
+        |       de.toml
+        |       en.toml
+        |       es.toml
+        |       fr.toml
+        |       hi.toml
+        |       id.toml
+        |       ja.toml
+        |       nl.toml
+        |       pt.toml
+        |       ru.toml
+        |       tr.toml
+        |       zh-cn.toml
+        |       
+        +---images
+        |       screenshot.png
+        |       tn.png
+        |       
+        +---layouts
+        |   |   404.html
+        |   |   index.html
+        |   |   index.json
+        |   |   
+        |   +---partials
+        |   |       custom-comments.html
+        |   |       custom-footer.html
+        |   |       custom-header.html
+        |   |       favicon.html
+        |   |       footer.html
+        |   |       header.html
+        |   |       logo.html
+        |   |       menu-footer.html
+        |   |       menu.html
+        |   |       meta.html
+        |   |       search.html
+        |   |       tags.html
+        |   |       toc.html
+        |   |       
+        |   +---shortcodes
+        |   |       attachments.html
+        |   |       button.html
+        |   |       children.html
+        |   |       expand.html
+        |   |       mermaid.html
+        |   |       notice.html
+        |   |       ref.html
+        |   |       relref.html
+        |   |       siteparam.html
+        |   |       
+        |   \---_default
+        |           list.html
+        |           single.html
+        |           
+        \---static
+            +---css
+            |       atom-one-dark-reasonable.css
+            |       auto-complete.css
+            |       featherlight.min.css
+            |       fontawesome-all.min.css
+            |       hugo-theme.css
+            |       hybrid.css
+            |       nucleus.css
+            |       perfect-scrollbar.min.css
+            |       tags.css
+            |       theme-blue.css
+            |       theme-green.css
+            |       theme-red.css
+            |       theme.css
+            |       
+            +---fonts
+            |       AmazonEmber_Rg.ttf
+            |       AmazonEmber_RgIt.ttf
+            |       AmazonEmber_W_Rg.eot
+            |       AmazonEmber_W_Rg.woff
+            |       AmazonEmber_W_Rg.woff2
+            |       AmazonEmber_W_RgIt.eot
+            |       AmazonEmber_W_RgIt.woff
+            |       AmazonEmber_W_RgIt.woff2
+            |       Inconsolata.eot
+            |       Inconsolata.svg
+            |       Inconsolata.ttf
+            |       Inconsolata.woff
+            |       Novecentosanswide-Normal-webfont.eot
+            |       Novecentosanswide-Normal-webfont.svg
+            |       Novecentosanswide-Normal-webfont.ttf
+            |       Novecentosanswide-Normal-webfont.woff
+            |       Novecentosanswide-Normal-webfont.woff2
+            |       Novecentosanswide-UltraLight-webfont.eot
+            |       Novecentosanswide-UltraLight-webfont.svg
+            |       Novecentosanswide-UltraLight-webfont.ttf
+            |       Novecentosanswide-UltraLight-webfont.woff
+            |       Novecentosanswide-UltraLight-webfont.woff2
+            |       Work_Sans_200.eot
+            |       Work_Sans_200.svg
+            |       Work_Sans_200.ttf
+            |       Work_Sans_200.woff
+            |       Work_Sans_200.woff2
+            |       Work_Sans_300.eot
+            |       Work_Sans_300.svg
+            |       Work_Sans_300.ttf
+            |       Work_Sans_300.woff
+            |       Work_Sans_300.woff2
+            |       Work_Sans_500.eot
+            |       Work_Sans_500.svg
+            |       Work_Sans_500.ttf
+            |       Work_Sans_500.woff
+            |       Work_Sans_500.woff2
+            |       
+            +---images
+            |       clippy.svg
+            |       favicon.png
+            |       gopher-404.jpg
+            |       
+            +---js
+            |       auto-complete.js
+            |       clipboard.min.js
+            |       featherlight.min.js
+            |       highlight.pack.js
+            |       hugo-learn.js
+            |       jquery-3.3.1.min.js
+            |       jquery.sticky.js
+            |       learn.js
+            |       lunr.min.js
+            |       modernizr.custom-3.6.0.js
+            |       perfect-scrollbar.jquery.min.js
+            |       perfect-scrollbar.min.js
+            |       search.js
+            |       
+            +---mermaid
+            |       mermaid.css
+            |       mermaid.dark.css
+            |       mermaid.forest.css
+            |       mermaid.js
+            |       
+            \---webfonts
+                    fa-brands-400.eot
+                    fa-brands-400.svg
+                    fa-brands-400.ttf
+                    fa-brands-400.woff
+                    fa-brands-400.woff2
+                    fa-regular-400.eot
+                    fa-regular-400.svg
+                    fa-regular-400.ttf
+                    fa-regular-400.woff
+                    fa-regular-400.woff2
+                    fa-solid-900.eot
+                    fa-solid-900.svg
+                    fa-solid-900.ttf
+                    fa-solid-900.woff
+                    fa-solid-900.woff2
+                    
