@@ -527,7 +527,7 @@ Full inline policy:
 ![Photo](/images/5-Workshop/private-by-default/screen4,1.png)
 
 4. Select user `mvp-builder`.
-![Photo](/static/images/5-Workshop/private-by-default/screen4,2.png)
+![Photo](images/5-Workshop/private-by-default/screen4,2.png)
 5. Select permission set `PrivateWorkloadTerraformOperator`.
 ![Photo](/images/5-Workshop/private-by-default/screen4,3.png)
 6. Submit the assignment.
