@@ -1,6 +1,6 @@
 baseURL = "https://thaiquanksna-debug.github.io/aws/"
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
